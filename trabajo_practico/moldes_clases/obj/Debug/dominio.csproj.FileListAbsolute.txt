@@ -1,0 +1,6 @@
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\bin\Debug\dominio.dll
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\bin\Debug\dominio.pdb
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\obj\Debug\dominio.dll
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\moldes_clases\obj\Debug\dominio.pdb

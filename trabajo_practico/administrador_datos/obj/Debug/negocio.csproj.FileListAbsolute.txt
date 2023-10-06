@@ -1,0 +1,9 @@
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\bin\Debug\administrador_datos.dll
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\bin\Debug\administrador_datos.pdb
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\obj\Debug\administrador_datos.dll
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\obj\Debug\administrador_datos.pdb
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\bin\Debug\dominio.dll
+C:\Users\54116\Desktop\Programacion 3\Trabajopractico1Winform\TPWinForm_Equipo30\trabajo_practico\administrador_datos\bin\Debug\dominio.pdb
